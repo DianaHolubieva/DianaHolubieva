@@ -1,8 +1,6 @@
 Hi 👋 My name is Diana Holubieva
 ================================
 
-Beginner front-end developer
-----------------------------
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [holubievadiana@gmail.com](mailto:holubievadiana@gmail.com)
